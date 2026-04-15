@@ -1,0 +1,10 @@
+{"dict": [
+[10001, {"_t":"EquipSuitConfig","_id":10001,"Package":"T1套装白虎套","Level":1,"Kititems":[50307,50308,50558,50559,50560,50561,50562,50563,50564],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[10002, {"_t":"EquipSuitConfig","_id":10002,"Package":"T1套装朱雀套","Level":1,"Kititems":[50565,50566,50567,50568,50569,50570,50571],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[20001, {"_t":"EquipSuitConfig","_id":20001,"Package":"T2套装无双套","Level":2,"Kititems":[50579,50580,50581,50582,50583,50584,50585],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[30001, {"_t":"EquipSuitConfig","_id":30001,"Package":"T3套装战神套","Level":3,"Kititems":[50600,50601,50602,50603,50604,50605,50606],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[40001, {"_t":"EquipSuitConfig","_id":40001,"Package":"T4套装阿修罗套","Level":4,"Kititems":[50621,50622,50623,50624,50625,50626,50627],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[50001, {"_t":"EquipSuitConfig","_id":50001,"Package":"T5套装黑龙金甲套","Level":5,"Kititems":[50642,50643,50644,50645,50646,50647,50648],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[60001, {"_t":"EquipSuitConfig","_id":60001,"Package":"T6套装杀破狼套","Level":6,"Kititems":[50663,50664,50665,50666,50667,50668,50669],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+[70001, {"_t":"EquipSuitConfig","_id":70001,"Package":"T7套装上古龙魂套","Level":7,"Kititems":[50684,50685,50686,50687,50688,50689,50690],"attribute":"2#1#1|4#1#1|7#1#1","prompt":"","Notes":""}],
+]}

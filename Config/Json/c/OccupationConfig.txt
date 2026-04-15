@@ -1,0 +1,5 @@
+{"dict": [
+[1, {"_t":"OccupationConfig","_id":1,"OccupationName":"战士","ModelAssetMale":"Hero_1_1","ModelAssetFemale":"Hero_1_2","InitActSkillID":2,"BaseSkillList":[4,8,13,104,22,26,27],"OccTwoID":[101,102,103,104]}],
+[2, {"_t":"OccupationConfig","_id":2,"OccupationName":"法师","ModelAssetMale":"Hero_2_1","ModelAssetFemale":"Hero_2_2","InitActSkillID":1,"BaseSkillList":[4,8,13,104,22,26,27],"OccTwoID":[201,202,203,204]}],
+[3, {"_t":"OccupationConfig","_id":3,"OccupationName":"道士","ModelAssetMale":"Hero_3_1","ModelAssetFemale":"Hero_3_2","InitActSkillID":1,"BaseSkillList":[4,8,13,104,22,26,27],"OccTwoID":[301,302,303,304]}],
+]}

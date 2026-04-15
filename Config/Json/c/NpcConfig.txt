@@ -1,0 +1,4 @@
+{"dict": [
+[1001, {"_t":"NpcConfig","_id":1001,"Name":"老兵","ShopValue":0,"FuncitonID":1001,"TaskID":[0],"StorySpeakID":[0],"NpcPar":[],"Desc":"","Asset":"10001","Position":[260,0,103],"Rotation":165,"AI":0,"MovePosition":"","ifCameraLaJin":0,"SpeakText":"","NpcHeadSpeakText":"","TaskHint":"","SourceID":0,"ShowRoseLv":0,"ShowType":0,"ShowValue":0,"ShopType":0}],
+[1002, {"_t":"NpcConfig","_id":1002,"Name":"杂货商","ShopValue":0,"FuncitonID":1002,"TaskID":[0],"StorySpeakID":[0],"NpcPar":[],"Desc":"","Asset":"10001","Position":[-142,0,98],"Rotation":186,"AI":0,"MovePosition":"","ifCameraLaJin":0,"SpeakText":"","NpcHeadSpeakText":"","TaskHint":"","SourceID":0,"ShowRoseLv":0,"ShowType":0,"ShowValue":0,"ShopType":0}],
+]}

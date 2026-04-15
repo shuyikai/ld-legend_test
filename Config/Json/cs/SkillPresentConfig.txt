@@ -1,0 +1,5 @@
+{"dict": [
+[1, {"_t":"SkillPresentConfig","_id":1,"type":1,"launchID":"100003","flyID":"","hitID":"100002","launchDir":1,"flyDir":0,"hitDir":0,"delaytime":0,"flyDelayTime":0,"hitDelayTime":1,"pos":0,"launchSound":"","flySound":"","hitSound":"","type":0,"hitPos":0,"flySpeed":0,"needTarget":0,"linkSkill":0,"skillgensui":0}],
+[2, {"_t":"SkillPresentConfig","_id":2,"type":1,"launchID":"100001","flyID":"","hitID":"100002","launchDir":1,"flyDir":0,"hitDir":0,"delaytime":0,"flyDelayTime":0,"hitDelayTime":1,"pos":0,"launchSound":"","flySound":"","hitSound":"","type":0,"hitPos":0,"flySpeed":0,"needTarget":0,"linkSkill":0,"skillgensui":0}],
+[12, {"_t":"SkillPresentConfig","_id":12,"type":1,"launchID":"100004","flyID":"","hitID":"","launchDir":1,"flyDir":0,"hitDir":0,"delaytime":0,"flyDelayTime":0,"hitDelayTime":1,"pos":0,"launchSound":"","flySound":"","hitSound":"","type":0,"hitPos":0,"flySpeed":0,"needTarget":0,"linkSkill":0,"skillgensui":0}],
+]}

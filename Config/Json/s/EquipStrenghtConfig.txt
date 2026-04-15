@@ -1,0 +1,13 @@
+{"dict": [
+[1, {"_t":"EquipStrenghtConfig","_id":1,"StdMode":5,"Attribute":"1|2|3|4|5|6","StrengthLv":1,"SucessRate":100,"JumpPoint":"","CostJinbi":50000,"CostItems":"13005;10"}],
+[2, {"_t":"EquipStrenghtConfig","_id":2,"StdMode":10,"Attribute":"4|36","StrengthLv":2,"SucessRate":80,"JumpPoint":"","CostJinbi":100000,"CostItems":"13005;20"}],
+[3, {"_t":"EquipStrenghtConfig","_id":3,"StdMode":11,"Attribute":"1|2|3|4|5|6","StrengthLv":3,"SucessRate":60,"JumpPoint":"","CostJinbi":200000,"CostItems":"13005;40"}],
+[4, {"_t":"EquipStrenghtConfig","_id":4,"StdMode":15,"Attribute":"4|36","StrengthLv":4,"SucessRate":40,"JumpPoint":"","CostJinbi":400000,"CostItems":"13005;80"}],
+[5, {"_t":"EquipStrenghtConfig","_id":5,"StdMode":20,"Attribute":"3|4|5|6","StrengthLv":5,"SucessRate":20,"JumpPoint":"","CostJinbi":800000,"CostItems":"13005;160"}],
+[6, {"_t":"EquipStrenghtConfig","_id":6,"StdMode":22,"Attribute":"1|2|3|4|5|6","StrengthLv":6,"SucessRate":10,"JumpPoint":"","CostJinbi":1600000,"CostItems":"13005;320"}],
+[7, {"_t":"EquipStrenghtConfig","_id":7,"StdMode":24,"Attribute":"4|36","StrengthLv":7,"SucessRate":5,"JumpPoint":"10;15","CostJinbi":3200000,"CostItems":"13005;640"}],
+[8, {"_t":"EquipStrenghtConfig","_id":8,"StdMode":25,"Attribute":"3|4|5|6","StrengthLv":0,"SucessRate":0,"JumpPoint":"","CostJinbi":0,"CostItems":""}],
+[9, {"_t":"EquipStrenghtConfig","_id":9,"StdMode":52,"Attribute":"1|2|3|4|5|6","StrengthLv":0,"SucessRate":0,"JumpPoint":"","CostJinbi":0,"CostItems":""}],
+[10, {"_t":"EquipStrenghtConfig","_id":10,"StdMode":54,"Attribute":"4|36","StrengthLv":0,"SucessRate":0,"JumpPoint":"","CostJinbi":0,"CostItems":""}],
+[11, {"_t":"EquipStrenghtConfig","_id":11,"StdMode":65,"Attribute":"3|4|5|6","StrengthLv":0,"SucessRate":0,"JumpPoint":"","CostJinbi":0,"CostItems":""}],
+]}

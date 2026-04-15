@@ -1,0 +1,14 @@
+{"dict": [
+[101, {"_t":"OccupationTwoConfig","_id":101,"OccupationName":"战神","OccDes":"速度专精：移动速度提升10%,装备精通：轻甲,移动光环：小队内移动速度提升10%","SkillID":[133,134,163,55,52,59],"Capacitys":[80,60,70]}],
+[102, {"_t":"OccupationTwoConfig","_id":102,"OccupationName":"武圣","OccDes":"剑类专精：使用剑类武器伤害提升5%,装备精通：轻甲,暴击光环：小队内暴击概率提升5%","SkillID":[135,136,164,63,40,131],"Capacitys":[70,70,70]}],
+[103, {"_t":"OccupationTwoConfig","_id":103,"OccupationName":"狂魔","OccDes":"刀类专精：使用刀类武器伤害提升5%,装备精通：重甲,伤害光环：小队内造成伤害提升5%","SkillID":[137,138,165,139,158,70],"Capacitys":[75,80,55]}],
+[104, {"_t":"OccupationTwoConfig","_id":104,"OccupationName":"剑圣","OccDes":"刀类专精：使用刀类武器伤害提升5%,装备精通：重甲,伤害光环：小队内造成伤害提升5%","SkillID":[171,42,195,173,174,176],"Capacitys":[75,80,55]}],
+[201, {"_t":"OccupationTwoConfig","_id":201,"OccupationName":"雷神","OccDes":"法杖精通：使用法杖类武器伤害提升5%,装备精通：布甲,双防光环：附近己方单位防御效果增加10%","SkillID":[190],"Capacitys":[85,50,75]}],
+[202, {"_t":"OccupationTwoConfig","_id":202,"OccupationName":"炎帝","OccDes":"魔法书类专精：使用魔法书类武器伤害提升5%,装备精通：布甲,减速光环：附近敌方单位移动速度降低10%","SkillID":[191],"Capacitys":[75,50,85]}],
+[203, {"_t":"OccupationTwoConfig","_id":203,"OccupationName":"冰皇","OccDes":"技能精通：技能效果提升10%,装备精通：重甲,心灵光环：附近敌方单位受到伤害额外提升10%","SkillID":[192],"Capacitys":[70,70,90]}],
+[204, {"_t":"OccupationTwoConfig","_id":204,"OccupationName":"龙卫","OccDes":"技能精通：技能效果提升10%,装备精通：重甲,心灵光环：附近敌方单位受到伤害额外提升10%","SkillID":[193],"Capacitys":[70,70,90]}],
+[301, {"_t":"OccupationTwoConfig","_id":301,"OccupationName":"毒尊","OccDes":"弓箭精通：使用弓箭武器伤害提升5%,装备精通：布甲,物理穿透光环：小队内物理穿透提升10%","SkillID":[194],"Capacitys":[75,75,95]}],
+[302, {"_t":"OccupationTwoConfig","_id":302,"OccupationName":"医圣","OccDes":"弓箭精通：使用弓箭武器伤害提升5%,装备精通：轻甲,重击光环：小队内重击概率提升5%","SkillID":[196],"Capacitys":[85,50,75]}],
+[303, {"_t":"OccupationTwoConfig","_id":303,"OccupationName":"兽神","OccDes":"弓箭精通：使用弓箭武器伤害提升5%,装备精通：重甲,野兽光环：小队内召唤物和宠物的属性提升10%","SkillID":[197],"Capacitys":[70,80,90]}],
+[304, {"_t":"OccupationTwoConfig","_id":304,"OccupationName":"道狂","OccDes":"弓箭精通：使用弓箭武器伤害提升5%,装备精通：重甲,野兽光环：小队内召唤物和宠物的属性提升10%","SkillID":[198],"Capacitys":[70,80,90]}],
+]}

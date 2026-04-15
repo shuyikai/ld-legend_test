@@ -1,0 +1,19 @@
+1#道具id#数量      1#1#1   
+2#道具名字#数量   2#马牌#1
+
+7# 增加属性 
+7#3001#2000   加血
+7#3#2000        加攻
+7#4#1000        
+#allui
+
+
+
+CreateRobot --Num=1 --RobotId=1001  主城机器人
+CreateRobot --Num=1 --RobotId=2001  锁妖塔机器人
+CreateRobot --Num=5 --RobotId=3001  老兵地图机器人
+
+
+ [Option("Process", Required = false, Default = 2)]
+
+ [Option("Console", Required = false, Default = 1)]
